@@ -9,3 +9,6 @@ When doing diferent versions
 
 How do the diagrams help you visualize the branch structure?
 To create branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Commiting very often is important
