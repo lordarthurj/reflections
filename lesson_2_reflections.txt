@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 to start keeping track of the commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Number of files in the stagig area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When doing diferent versions
